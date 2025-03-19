@@ -1,0 +1,14 @@
+E:\Estudos\POO\01conceitos\bin\Debug\net8.0\01conceitos.exe
+E:\Estudos\POO\01conceitos\bin\Debug\net8.0\01conceitos.deps.json
+E:\Estudos\POO\01conceitos\bin\Debug\net8.0\01conceitos.runtimeconfig.json
+E:\Estudos\POO\01conceitos\bin\Debug\net8.0\01conceitos.dll
+E:\Estudos\POO\01conceitos\bin\Debug\net8.0\01conceitos.pdb
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\01conceitos.AssemblyInfoInputs.cache
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\01conceitos.AssemblyInfo.cs
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\01conceitos.csproj.CoreCompileInputs.cache
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\01conceitos.dll
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\refint\01conceitos.dll
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\01conceitos.pdb
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\01conceitos.genruntimeconfig.cache
+E:\Estudos\POO\01conceitos\obj\Debug\net8.0\ref\01conceitos.dll

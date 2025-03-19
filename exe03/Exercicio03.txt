@@ -1,0 +1,13 @@
+
+
+Crair classe Pessao com atributos
+a) nome
+b)idade
+c)cidade
+
+Havera um cosntrutor paar inicializar o objeto e executar
+um metodo privato chamado Mensagem.
+o metodo privado mensagem ira retornar uma frase
+contactenando os atributos da classe.
+
+_ o que utlizar: Classes, atributos, metodo, objeto, encapsulamento e construtor

@@ -1,0 +1,25 @@
+A abstração : Principio fundamental da orientação a objetos que envolve a identificação
+ e a modelagem das caracteristicas e comportamentos essenciais de um objeto.
+
+ 
+ Classes abstratas não podem ser instanciadas.
+
+ Exemplo:
+ MinhaClasseAbstrata obj = new();
+
+ Caracteristicas daabstraçao:
+
+ * Padronização: Classe abstração auxiliam na padronozação de projetos, pois consiste
+ na especificação de métodos que devem ser utilizados.
+
+ * Reutilização: É possivel ccriar método não abstratos, onde  o uso acaba sendo opcional.
+
+ * Compreensão do projeto: A abstração acaba sendo uma tecnica muito interessante para garantir
+ um código limpo, organizado.
+
+
+
+
+
+
+

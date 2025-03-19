@@ -1,0 +1,14 @@
+E:\Estudos\POO\04atributosEmetodosStaticos\bin\Debug\net8.0\04atributosEmetodosStaticos.exe
+E:\Estudos\POO\04atributosEmetodosStaticos\bin\Debug\net8.0\04atributosEmetodosStaticos.deps.json
+E:\Estudos\POO\04atributosEmetodosStaticos\bin\Debug\net8.0\04atributosEmetodosStaticos.runtimeconfig.json
+E:\Estudos\POO\04atributosEmetodosStaticos\bin\Debug\net8.0\04atributosEmetodosStaticos.dll
+E:\Estudos\POO\04atributosEmetodosStaticos\bin\Debug\net8.0\04atributosEmetodosStaticos.pdb
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\04atributosEmetodosStaticos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\04atributosEmetodosStaticos.AssemblyInfoInputs.cache
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\04atributosEmetodosStaticos.AssemblyInfo.cs
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\04atributosEmetodosStaticos.csproj.CoreCompileInputs.cache
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\04atributosEmetodosStaticos.dll
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\refint\04atributosEmetodosStaticos.dll
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\04atributosEmetodosStaticos.pdb
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\04atributosEmetodosStaticos.genruntimeconfig.cache
+E:\Estudos\POO\04atributosEmetodosStaticos\obj\Debug\net8.0\ref\04atributosEmetodosStaticos.dll

@@ -1,0 +1,12 @@
+_ Atividade: Criar uma classe Aluno, contendo os atributos:
+
+a) nome
+b) nota1
+c) nota2
+
+havera 3 metodos, sendo dois privados e um publico:
+Media: Método privado paar retornar a media do Aluno
+Situação: Método privado para retornar se está  aprovado ou reprovado.
+Mensagem: Método publico para o retornar o nome, média e situação.
+
+ _ o que utulizar: classe,atributo, metodo, obj e encapsulamento.

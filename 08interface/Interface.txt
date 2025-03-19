@@ -1,0 +1,22 @@
+Interface:
+
+A interface é como uma classe base abstrata que contem apenas membros abstratos.
+
+
+Dicas: no c# a boa prática pede que toda a interface com a letra i,
+
+exemplos:
+IPessoa;
+IProduto;
+IAnimal;
+IColaborador;
+
+Caracteristicas:
+
+Apenas métodos obrigatorios: Não é possivel criar métodos opcionais
+
+* No C# uma classe não pode herdar mais que uma classe,
+ mas na Interface podemos implementar varias.
+
+* Padronização dos projetos: Garantia que todos os desenvolvedores tenham
+  acesso aos métodos padrão apara implementar em seus projetos.

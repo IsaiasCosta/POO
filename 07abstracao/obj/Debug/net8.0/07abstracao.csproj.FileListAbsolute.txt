@@ -1,0 +1,14 @@
+E:\Estudos\POO\07abstracao\bin\Debug\net8.0\07abstracao.exe
+E:\Estudos\POO\07abstracao\bin\Debug\net8.0\07abstracao.deps.json
+E:\Estudos\POO\07abstracao\bin\Debug\net8.0\07abstracao.runtimeconfig.json
+E:\Estudos\POO\07abstracao\bin\Debug\net8.0\07abstracao.dll
+E:\Estudos\POO\07abstracao\bin\Debug\net8.0\07abstracao.pdb
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\07abstracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\07abstracao.AssemblyInfoInputs.cache
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\07abstracao.AssemblyInfo.cs
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\07abstracao.csproj.CoreCompileInputs.cache
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\07abstracao.dll
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\refint\07abstracao.dll
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\07abstracao.pdb
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\07abstracao.genruntimeconfig.cache
+E:\Estudos\POO\07abstracao\obj\Debug\net8.0\ref\07abstracao.dll

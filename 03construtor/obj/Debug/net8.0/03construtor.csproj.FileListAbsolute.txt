@@ -1,0 +1,14 @@
+E:\Estudos\POO\03construtor\bin\Debug\net8.0\03construtor.exe
+E:\Estudos\POO\03construtor\bin\Debug\net8.0\03construtor.deps.json
+E:\Estudos\POO\03construtor\bin\Debug\net8.0\03construtor.runtimeconfig.json
+E:\Estudos\POO\03construtor\bin\Debug\net8.0\03construtor.dll
+E:\Estudos\POO\03construtor\bin\Debug\net8.0\03construtor.pdb
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\03construtor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\03construtor.AssemblyInfoInputs.cache
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\03construtor.AssemblyInfo.cs
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\03construtor.csproj.CoreCompileInputs.cache
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\03construtor.dll
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\refint\03construtor.dll
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\03construtor.pdb
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\03construtor.genruntimeconfig.cache
+E:\Estudos\POO\03construtor\obj\Debug\net8.0\ref\03construtor.dll

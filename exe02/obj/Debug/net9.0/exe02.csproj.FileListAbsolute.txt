@@ -1,0 +1,14 @@
+C:\Users\ics\Documents\POO\exe02\bin\Debug\net9.0\exe02.exe
+C:\Users\ics\Documents\POO\exe02\bin\Debug\net9.0\exe02.deps.json
+C:\Users\ics\Documents\POO\exe02\bin\Debug\net9.0\exe02.runtimeconfig.json
+C:\Users\ics\Documents\POO\exe02\bin\Debug\net9.0\exe02.dll
+C:\Users\ics\Documents\POO\exe02\bin\Debug\net9.0\exe02.pdb
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\exe02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\exe02.AssemblyInfoInputs.cache
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\exe02.AssemblyInfo.cs
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\exe02.csproj.CoreCompileInputs.cache
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\exe02.dll
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\refint\exe02.dll
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\exe02.pdb
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\exe02.genruntimeconfig.cache
+C:\Users\ics\Documents\POO\exe02\obj\Debug\net9.0\ref\exe02.dll

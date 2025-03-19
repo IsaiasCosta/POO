@@ -1,0 +1,32 @@
+Polimorfismo: ou muitas formas.
+É um conceito fundamental da programação orientada a objetos que se refere à capacidade de objetos de diferentes classes responderem de maneira única a mensagens idênticas, invocadas através de uma mesma interface ou método.
+
+Tipos de Polimorfismo:
+Polimorfismo de sobrescrita (override): Ocorre quando uma classe derivada (subclasse) redefine um 
+método já definido em sua classe base (superclasse).
+
+Polimorfismo de sobrecarga (overload): refere-se à capacidade de ter vários
+métodos com o mesmo nome, mas com listas de parâmetros diferentes em uma única classe.
+
+Exemplo de override (sobrecarga):
+
+public string som()
+{
+    return "au-au"
+}
+
+public stringsom()
+{
+    return"miau-miau"
+}
+
+Exemplo de sobrescrita (overload)
+
+public double media(double n1, double n2)
+{
+    return (n1+n2)/2;
+}
+public double media(double n1, double n2,double n3)
+{
+    return (n1+n2+n3)/3;
+} 
