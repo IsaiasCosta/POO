@@ -1,0 +1,14 @@
+E:\Estudos\POO\exe06\bin\Debug\net8.0\exe06.exe
+E:\Estudos\POO\exe06\bin\Debug\net8.0\exe06.deps.json
+E:\Estudos\POO\exe06\bin\Debug\net8.0\exe06.runtimeconfig.json
+E:\Estudos\POO\exe06\bin\Debug\net8.0\exe06.dll
+E:\Estudos\POO\exe06\bin\Debug\net8.0\exe06.pdb
+E:\Estudos\POO\exe06\obj\Debug\net8.0\exe06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\POO\exe06\obj\Debug\net8.0\exe06.AssemblyInfoInputs.cache
+E:\Estudos\POO\exe06\obj\Debug\net8.0\exe06.AssemblyInfo.cs
+E:\Estudos\POO\exe06\obj\Debug\net8.0\exe06.csproj.CoreCompileInputs.cache
+E:\Estudos\POO\exe06\obj\Debug\net8.0\exe06.dll
+E:\Estudos\POO\exe06\obj\Debug\net8.0\refint\exe06.dll
+E:\Estudos\POO\exe06\obj\Debug\net8.0\exe06.pdb
+E:\Estudos\POO\exe06\obj\Debug\net8.0\exe06.genruntimeconfig.cache
+E:\Estudos\POO\exe06\obj\Debug\net8.0\ref\exe06.dll

@@ -1,0 +1,15 @@
+D:\POO\exe08\bin\Debug\net9.0\exe08.exe
+D:\POO\exe08\bin\Debug\net9.0\exe08.deps.json
+D:\POO\exe08\bin\Debug\net9.0\exe08.runtimeconfig.json
+D:\POO\exe08\bin\Debug\net9.0\exe08.dll
+D:\POO\exe08\bin\Debug\net9.0\exe08.pdb
+D:\POO\exe08\obj\Debug\net9.0\exe08.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\exe08\obj\Debug\net9.0\exe08.AssemblyInfoInputs.cache
+D:\POO\exe08\obj\Debug\net9.0\exe08.AssemblyInfo.cs
+D:\POO\exe08\obj\Debug\net9.0\exe08.csproj.CoreCompileInputs.cache
+D:\POO\exe08\obj\Debug\net9.0\exe08.sourcelink.json
+D:\POO\exe08\obj\Debug\net9.0\exe08.dll
+D:\POO\exe08\obj\Debug\net9.0\refint\exe08.dll
+D:\POO\exe08\obj\Debug\net9.0\exe08.pdb
+D:\POO\exe08\obj\Debug\net9.0\exe08.genruntimeconfig.cache
+D:\POO\exe08\obj\Debug\net9.0\ref\exe08.dll
